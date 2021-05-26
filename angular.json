@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angularDoBuyMe"
+  "defaultProject": "angularDoBuyMe",
+  "cli": {
+    "analytics": "2cef01f9-ee80-48d5-9974-ecf8b8f33e47"
+  }
 }
